@@ -1,5 +1,5 @@
 # Poynting-Vector
-This code is a test run for the flow of energy inside a simple circuit:
+This code maps out the electric, magnetic, and poytning fields around a circuit containing only a battery and a light bulb. It was made to prepare for the following video:
 
 <p align="center">
     <a href="https://youtu.be/zYRx6Zub3cA">
