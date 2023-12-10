@@ -17,7 +17,7 @@ pip install vpython --upgrade
 ## What to Expect
 All calcuations are done for when the circuit is in something called the &quot;steady state&quot;, which is when circuit has found an equilbrium (i.e. <i>not</i> immediately after you turn it on). That means the display is static. There is no animating. The program performs the calcuations, displays the objects and arrows, and then stops.
 
-<img src="https://github.com/ScienceAsylum/Poynting-Vector/blob/main/Poynting%20(All).png">
+<img src="https://github.com/ScienceAsylum/Poynting-Vector/blob/main/Poynting_All_Arrows.png">
 
 The yellow sphere is supposed to be a light bulb and the blue cylinder is a battery. For the arrows: cyan is the electric field, orange is the magnetic field, and white is the Poynting vector. Strong effects are shown as larger arrows.
 
